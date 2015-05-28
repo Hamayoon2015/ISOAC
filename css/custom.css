@@ -1,0 +1,354 @@
+.title-section {
+	padding-bottom: 10px;
+}
+#team {
+	margin-top: 40px;
+}
+.member-details {
+    margin-top: -15px;
+    text-align: center;
+    margin-left: 49px;
+}
+.picture {
+	margin-top: 75px;
+	margin-left: 30px;
+	margin: auto auto 25px;
+	overflow: hidden;
+}
+.separator-2 {
+    display: block;
+    width: 80%;
+    height: 1px;
+    margin: 15px 0px;
+    background-color: #00AEFF;
+    position: relative;
+    margin-left: 10%;
+}
+.social-icons ul {
+    margin-left: 60px;
+}
+ul li {
+	list-style-type: none;
+	float: left;
+	margin-right: 20px;
+}
+.our-team .row .team-box {
+    display: inline-block;
+    float: none !important;
+    margin-right: -4px;
+    vertical-align: top;
+    margin-bottom: 25px;
+}
+.team-box {
+position: relative;
+min-height: 1px;
+padding-left: 15px;
+padding-right: 15px;
+}
+.team-member {
+    border-radius: 4px;
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 35px;
+}
+.team-member .profile-pic {
+    border-radius: 50%;
+    width: 174px;
+    height: 174px;
+    margin: auto auto 25px;
+    overflow: hidden;
+}
+.team-member .member-details {
+    position: relative;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+.details {
+	position: absolute;
+	top: 18px;
+	width: 100%;
+    height: 224px;
+    padding: 15px;
+    background-color: #404040;
+    text-align: left;
+	font-size: 13px;
+	line-height: 20px;
+	color: #fff;
+	display: none;
+	border-radius: 8px 8px 2px 2px; 
+}
+
+.socila-icons {
+	margin-left: 12px;
+}
+.picture {
+	margin-top: 50px;
+}
+#red {
+	border-bottom: 3px solid #CE0505;
+	padding-bottom: 7px;
+}
+#green {
+	border-bottom: 3px solid green;
+	padding-bottom: 7px;
+}
+#blue {
+	border-bottom: 3px solid #6161FF;
+	padding-bottom: 7px;
+}
+#yellow {
+	border-bottom: 3px solid #F0F032;
+	padding-bottom: 7px;	
+}
+ .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+ #team-section {
+ 	height: 638px
+ }
+ .c-control{
+ 	width: 10% !important;
+ 	opacity: 0;
+ }
+#new-section {
+    background-color: white;
+    margin-top: 0px;
+    height:  619px;
+}
+#team-row {
+    width: 100%;
+}
+
+/*Event section css code*/
+
+#event-section {
+    background-color: #F6F8F9;
+    margin-top: 0px;
+    height: 638px;
+}
+.filterable {
+    margin-top: 15px;
+}
+.filterable .panel-heading .pull-right {
+    margin-top: -20px;
+}
+.filterable .filters input[disabled] {
+    background-color: transparent;
+    border: none;
+    cursor: auto;
+    box-shadow: none;
+    padding: 0;
+    height: auto;
+}
+.filterable .filters input[disabled]::-webkit-input-placeholder {
+    color: #333;
+}
+.filterable .filters input[disabled]::-moz-placeholder {
+    color: #333;
+}
+.filterable .filters input[disabled]:-ms-input-placeholder {
+    color: #333;
+}
+
+            /*start of box css code*/
+
+.box {
+    border-radius: 3px;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    padding: 10px 25px;
+    text-align: left;
+    display: block;
+    margin-top: 60px;
+}
+.box-icon {
+    background-color: #4db6ff;
+    border-radius: 50%;
+    display: table;
+    height: 100px;
+    margin: 0 auto;
+    width: 100px;
+    margin-top: -61px;
+}
+.box-icon span {
+    color: #fff;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+.info h4 {
+    font-size: 26px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.info > p {
+    color: #717171;
+    font-size: 16px;
+    padding-top: 10px;
+    text-align: justify;
+}
+.info > a {
+    background-color: #03a9f4;
+    border-radius: 2px;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    color: #fff;
+    transition: all 0.5s ease 0s;
+}
+.info > a:hover {
+    background-color: #0288d1;
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.16), 0 2px 5px 0 rgba(0, 0, 0, 0.12);
+    color: #fff;
+    transition: all 0.5s ease 0s;
+}
+
+            /*end of box css code*/
+.panel-heading {
+    background-color: #4db6ff !important;
+}
+
+
+    /*community section css code*/
+
+#community {
+    background-color: #DCE2E5;
+    margin-top: 0px;
+    height: 730px;
+}
+/*what we do section css code*/
+
+#what-wedo-section {
+    border-bottom: 1px solid #DCE2E5;
+    padding: 100px 0px;
+    margin-top: 100px;
+    background-color: #F6F8F9;
+}
+#create,#launch,#initiate,#actively:hover {
+    cursor: pointer;
+
+}
+.color {
+    color: #00AEFF;
+}
+
+
+
+/*Community section css code*/
+
+/*============================================================
+BACKGROUND COLORS
+============================================================*/
+.db-bk-color-one {
+    background-color: #f55039;
+}
+
+.db-bk-color-two {
+    background-color: #46A6F7;
+}
+
+.db-bk-color-three {
+    background-color: #47887E;
+}
+
+.db-bk-color-six {
+    background-color: #F59B24;
+}
+/*============================================================
+PRICING STYLES
+==========================================================*/
+.db-padding-btm {
+    padding-bottom: 50px;
+}
+.db-button-color-square {
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.50);
+    border: none;
+    border-radius: 0px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+}
+
+    .db-button-color-square:hover {
+        color: #fff;
+        background-color: rgba(0, 0, 0, 0.50);
+        border: none;
+    }
+
+
+.db-pricing-eleven {
+    margin-bottom: 30px;
+    margin-top: 50px;
+    text-align: center;
+    box-shadow: 0 0 5px rgba(0, 0, 0, .5);
+    color: #fff;
+    line-height: 30px;
+}
+
+    .db-pricing-eleven .price {
+        background-color: rgba(0, 0, 0, 0.5);
+        padding: 40px 20px 20px 20px;
+        font-size: 31px;
+        font-weight: 900;
+        color: #FFFFFF;
+    }
+
+        .db-pricing-eleven .price small {
+            color: #B8B8B8;
+            display: block;
+            font-size: 12px;
+            margin-top: 22px;
+        }
+
+    .db-pricing-eleven .type {
+        background-color: #52E89E;
+        padding: 50px 20px;
+        font-weight: 900;
+        text-transform: uppercase;
+        font-size: 30px;
+    }
+
+    .db-pricing-eleven .pricing-footer {
+        padding: 20px;
+        height: 274px;
+    }
+
+.db-attached > .col-lg-4,
+.db-attached > .col-lg-3,
+.db-attached > .col-md-4,
+.db-attached > .col-md-3,
+.db-attached > .col-sm-4,
+.db-attached > .col-sm-3 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.db-pricing-eleven.popular {
+    margin-top: 10px;
+}
+
+    .db-pricing-eleven.popular .price {
+        padding-top: 30px;
+        height: 129px;
+    }
+.pricing-footer p,ul {
+    text-align: left;
+    color: #777;
+}
+
+/*Contact section css code*/
+
+#contact-section {
+    background-color: #FFF;
+    margin-top: 0px;
+    height: 500px;
+}
+#contact-form {
+    margin-top: 40px;
+}
+#google-map {
+    margin-top: 40px;
+}
+#social {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
